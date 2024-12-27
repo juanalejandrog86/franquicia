@@ -1,7 +1,10 @@
 # franquicia
 Franquicia aplicacion
 
+Repositorio https://github.com/juanalejandrog86/franquicia
+
 A continuación se lista el listado de endpoints para cada punto y su forma de uso se ilustra con un ejemplo. La conexion a base de datos se puede modificar en franquicia\src\main\resources\application.properties
+
 
 2 Adicionar franquicia
 POST http://localhost:8080/franquicias
